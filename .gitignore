@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Exclude Expo generated folders
+.expo/
+.expo-shared/
+
+# React Native
+*.idea/
+*.vscode/
+*.DS_Store
+*.expo
+android/
+ios/
+
+# Production
+build/
+dist/
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Python
+__py
